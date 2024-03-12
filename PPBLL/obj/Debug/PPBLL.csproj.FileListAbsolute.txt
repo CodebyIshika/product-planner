@@ -1,0 +1,17 @@
+C:\Users\madha\OneDrive - mitt.ca\MITT\LINQ\PPBLL\bin\Debug\PPBLL.dll
+C:\Users\madha\OneDrive - mitt.ca\MITT\LINQ\PPBLL\bin\Debug\PPBLL.pdb
+C:\Users\madha\OneDrive - mitt.ca\MITT\LINQ\PPBLL\bin\Debug\PPDAL.dll
+C:\Users\madha\OneDrive - mitt.ca\MITT\LINQ\PPBLL\bin\Debug\EntityFramework.dll
+C:\Users\madha\OneDrive - mitt.ca\MITT\LINQ\PPBLL\bin\Debug\PPDAL.pdb
+C:\Users\madha\OneDrive - mitt.ca\MITT\LINQ\PPBLL\bin\Debug\PPDAL.dll.config
+C:\Users\madha\OneDrive - mitt.ca\MITT\LINQ\PPBLL\bin\Debug\EntityFramework.xml
+C:\Users\madha\OneDrive - mitt.ca\MITT\LINQ\PPBLL\obj\Debug\PPBLL.csproj.AssemblyReference.cache
+C:\Users\madha\OneDrive - mitt.ca\MITT\LINQ\PPBLL\obj\Debug\PPBLL.csproj.CoreCompileInputs.cache
+C:\Users\madha\OneDrive - mitt.ca\MITT\LINQ\PPBLL\obj\Debug\PPBLL.csproj.CopyComplete
+C:\Users\madha\OneDrive - mitt.ca\MITT\LINQ\PPBLL\obj\Debug\PPBLL.dll
+C:\Users\madha\OneDrive - mitt.ca\MITT\LINQ\PPBLL\obj\Debug\PPBLL.pdb
+C:\Users\madha\OneDrive - mitt.ca\MITT\LINQ\PPBLL\bin\Debug\AutoMapper.dll
+C:\Users\madha\OneDrive - mitt.ca\MITT\LINQ\PPBLL\bin\Debug\System.ValueTuple.dll
+C:\Users\madha\OneDrive - mitt.ca\MITT\LINQ\PPBLL\bin\Debug\AutoMapper.pdb
+C:\Users\madha\OneDrive - mitt.ca\MITT\LINQ\PPBLL\bin\Debug\AutoMapper.xml
+C:\Users\madha\OneDrive - mitt.ca\MITT\LINQ\PPBLL\bin\Debug\System.ValueTuple.xml
